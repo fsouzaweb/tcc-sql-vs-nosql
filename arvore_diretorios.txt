@@ -1,0 +1,69 @@
+src
+├── app
+│   ├── app.component.html
+│   ├── app.component.scss
+│   ├── app.component.spec.ts
+│   ├── app.component.ts
+│   ├── app.config.ts
+│   ├── app.routes.ts
+│   ├── components
+│   │   └── menu
+│   │       ├── menu.component.html
+│   │       ├── menu.component.scss
+│   │       └── menu.component.ts
+│   ├── guards
+│   │   └── auth.guard.ts
+│   ├── interfaces
+│   │   ├── aluno.ts
+│   │   └── professor.ts
+│   ├── pages
+│   │   ├── aluno-crud
+│   │   │   ├── aluno-crud.component.html
+│   │   │   ├── aluno-crud.component.scss
+│   │   │   ├── aluno-crud.component.ts
+│   │   │   ├── modal-aluno-adicao-edicao
+│   │   │   │   ├── modal-aluno-adicao-edicao.component.html
+│   │   │   │   ├── modal-aluno-adicao-edicao.component.scss
+│   │   │   │   └── modal-aluno-adicao-edicao.component.ts
+│   │   │   └── modal-aluno-visualizacao
+│   │   │       ├── modal-aluno-visualizacao.component.html
+│   │   │       ├── modal-aluno-visualizacao.component.scss
+│   │   │       └── modal-aluno-visualizacao.component.ts
+│   │   ├── home
+│   │   │   ├── home.component.html
+│   │   │   ├── home.component.scss
+│   │   │   └── home.component.ts
+│   │   ├── login
+│   │   │   ├── login.component.html
+│   │   │   ├── login.component.scss
+│   │   │   └── login.component.ts
+│   │   └── professor-crud
+│   │       ├── modal-professor-adicao-edicao
+│   │       │   ├── modal-professor-adicao-edicao.component.html
+│   │       │   ├── modal-professor-adicao-edicao.component.scss
+│   │       │   └── modal-professor-adicao-edicao.component.ts
+│   │       ├── modal-professor-visualizacao
+│   │       │   ├── modal-professor-visualizacao.component.html
+│   │       │   ├── modal-professor-visualizacao.component.scss
+│   │       │   └── modal-professor-visualizacao.component.ts
+│   │       ├── professor-crud.component.html
+│   │       ├── professor-crud.component.scss
+│   │       └── professor-crud.component.ts
+│   └── services
+│       ├── aluno.service.ts
+│       ├── auth.service.ts
+│       └── professor.service.ts
+├── assets
+│   ├── .gitkeep
+│   └── images
+│       ├── login-background.png
+│       └── logo.png
+├── environments
+│   ├── environment.development.ts
+│   └── environment.ts
+├── favicon.ico
+├── index.html
+├── main.ts
+└── styles.scss
+
+19 directories, 48 files

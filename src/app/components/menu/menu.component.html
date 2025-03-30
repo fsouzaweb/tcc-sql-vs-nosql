@@ -1,0 +1,20 @@
+<nav class="sidemenu">
+    <ul>
+        <li>
+            <img src="/assets/images/logo.png" width="40px">
+            <span class="logo">Sistema Acadêmico</span>
+        </li>
+        <li routerLink="/home">
+            <mat-icon>home</mat-icon>Home
+        </li>
+        <li routerLink="/professor">
+            <mat-icon>person-add</mat-icon>Add Professor
+        </li>
+        <li routerLink="/aluno">
+            <mat-icon>aluno-add</mat-icon>Add Aluno
+        </li>
+        <li routerLink="/login">
+            <mat-icon (click)="logout()">logout</mat-icon>Sair
+        </li>
+    </ul>
+</nav>
