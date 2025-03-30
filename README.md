@@ -87,8 +87,9 @@ ng e2e
 
 ---
 
-**Autor:** Fabiano Souza de Oliveira  
-**Instituição:** UNIVERSIDADE DE MARÍLIA (UNIMAR)  
+**Autor:** Fabiano Souza de Oliveira
+**RA:** 8093500
+**Instituição:** UNIVERSIDADE DE MARÍLIA (UNIMAR)
 **Repositório:** [https://github.com/fsouzaweb/tcc-sql-vs-nosql](https://github.com/fsouzaweb/tcc-sql-vs-nosql)
 
 ---
